@@ -70,7 +70,7 @@ def new_day(
         url,
         headers={
             "Cookie": f"session={session_cookie}",
-            "User-Agent": f"https://github.com/tituszban/advent_of_code_2024 by {email}"
+            "User-Agent": f"https://github.com/tituszban/advent_of_code_2025 by {email}"
         },
         verify=False)
 
